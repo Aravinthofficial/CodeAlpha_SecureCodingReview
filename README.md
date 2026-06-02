@@ -64,5 +64,4 @@ Through this project, I learned:
 - Authentication security
 - Application security improvement techniques
 
-## Internship
-CodeAlpha Cyber Security Internship# CodeAlpha_SecureCodingReview
+
